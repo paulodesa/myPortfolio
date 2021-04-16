@@ -4,6 +4,10 @@ body {
     font-family: "Open Sans", "Helvetica Neue", sans-serif;
 }
 
+#dev {
+  font-family: 'Tangerine', cursive;
+}
+
 .content-footer,
 .masthead-heading,
 .masthead-intro {
